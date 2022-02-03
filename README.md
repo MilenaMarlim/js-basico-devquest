@@ -3,7 +3,7 @@ Desafios construídos para aprovação no javascript nível básico
 
 💜 Olá !
 
-💬 Eu construí esses 5 desafios propostos pelo Dev Em Dobro!
+💬 Eu construí esses 6 desafios propostos pelo Dev Em Dobro!
 
 
 ## 🚀 Linguagens utilizadas:
